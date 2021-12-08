@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1638944266710" clover="3.2.0">
+  <project timestamp="1638944266710" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="22" coveredconditionals="22" methods="8" coveredmethods="8" elements="61" coveredelements="61" complexity="0" loc="31" ncloc="31" packages="1" files="4" classes="4"/>
+    <file name="calc.js" path="/media/ahmed/data/Work/Microverse/JEST-testing/calc.js">
+      <metrics statements="13" coveredstatements="13" conditionals="16" coveredconditionals="16" methods="4" coveredmethods="4"/>
+      <line num="3" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+    </file>
+    <file name="fistCharCapital.js" path="/media/ahmed/data/Work/Microverse/JEST-testing/fistCharCapital.js">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+    <file name="reverseString.js" path="/media/ahmed/data/Work/Microverse/JEST-testing/reverseString.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="stringLength.js" path="/media/ahmed/data/Work/Microverse/JEST-testing/stringLength.js">
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

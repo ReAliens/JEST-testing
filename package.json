@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "This is simple testing practise repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAliens/JEST-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReAliens/JEST-testing/issues"
+  },
+  "homepage": "https://github.com/ReAliens/JEST-testing#readme",
+  "devDependencies": {
+    "jest": "^27.4.3"
+  }
+}
